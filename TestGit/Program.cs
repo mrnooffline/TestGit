@@ -10,6 +10,8 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
+            Console.Write("Hello guys! This is TestGit project.");
+            Console.Read();
         }
     }
 }
