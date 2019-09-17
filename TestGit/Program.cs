@@ -11,6 +11,8 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.Write("Hello guys! This is TestGit project.");
+
+            Console.Write("Commit 1!.");
             Console.Read();
         }
     }
